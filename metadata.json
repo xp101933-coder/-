@@ -1,0 +1,5 @@
+{
+  "name": "Image Splitter Pro",
+  "description": "画像のアップロード、ドラッグ操作による自由な分割、そして個別ダウンロードが可能な画像分割ツールです。",
+  "requestFramePermissions": []
+}
